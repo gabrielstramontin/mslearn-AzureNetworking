@@ -1,25 +1,15 @@
-# Configure secure access to workloads with Azure virtual networking services
 
-Looking for the **[HTML pages](https://microsoftlearning.github.io/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/)**?
 
-**Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
-## What are we doing?
+# Configure Secure Access to Workloads using Azure Networking:
+For more information about this Microsoft Applied Skills, please check **[Microsoft Learn Documentation](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/)**
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Microsoft services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs (Microsoft Certified Trainer) to keep the content current with product changes.
+### Prepare for your assessment:
+**[AZ-1002 Learning Path](https://learn.microsoft.com/en-us/training/paths/configure-secure-workloads-using-azure-virtual-networking/)**
 
-- We hope this brings a sense of collaboration to the labs like we have never had before - when a Microsoft service such as Azure or Microsoft 365 changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
-
-## How should I use this repository??
-
-- The instructor materials are your primary source for teaching the course content.
-
-- These files on GitHub are designed to be used in the course labs, which use the hosted lab environment.
-
-- It is recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Microsoft cloud services and get the latest files for their delivery.
-
-## How do I contribute?
-
-- Any MCT (Microsoft Certified Trainer) can submit a pull request to the code or content in the GitHub repro. Microsoft and the course author will then triage and include content and lab code changes as needed.
-
-- You can submit bugs, changes, improvement, and ideas. Find a new Azure or Microsoft 365 feature before we have? Submit a new demo!
+### Labs Exercises:
+- [Exercise 01](https://microsoftlearning.github.io/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/Instructions/Labs/LAB_01_virtual_networks.html): Create and Configure Virtual Networks (VNETs).
+- [Exercise 02](https://microsoftlearning.github.io/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/Instructions/Labs/LAB_02_security_groups.html): Create and Configure network Security Groups (NSGs).
+- [Exercise 03](https://microsoftlearning.github.io/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/Instructions/Labs/LAB_03_firewall.html): Create and Configure Azure Firewall.
+- [Exercise 04](https://microsoftlearning.github.io/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/Instructions/Labs/LAB_04_route.html): Configure Network Routing.
+- [Exercise 05](https://microsoftlearning.github.io/Configure-secure-access-to-workloads-with-Azure-virtual-networking-services/Instructions/Labs/LAB_05_domain_name.html): Create DNS zones and Configure DNS settings.
