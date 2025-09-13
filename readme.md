@@ -1,6 +1,3 @@
-
-
-
 # Configure Secure Access to Workloads using Azure Networking:
 For more information about this Microsoft Applied Skills, please check **[Microsoft Learn Documentation](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/)**
 
